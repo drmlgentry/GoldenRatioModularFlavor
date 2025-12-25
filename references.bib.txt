@@ -1,0 +1,189 @@
+@article{Feruglio:2019,
+    author = {Feruglio, Ferruccio},
+    title = {Are neutrino masses modular forms?},
+    eprint = {1906.08780},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    year = {2019},
+    note = {\url{https://arxiv.org/abs/1906.08780}}
+}
+
+@article{Ding:2020,
+    author = {Ding, Gui-Jun and King, Stephen F. and Liu, Xiang-Gan},
+    title = {Modular flavor symmetry and neutrino models},
+    journal = {JHEP},
+    volume = {09},
+    pages = {074},
+    year = {2020},
+    eprint = {2003.02288},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1007/JHEP09(2020)074}
+}
+
+@article{Ishiguro:2021,
+    author = {Ishiguro, Kazuki and Kobayashi, Tatsuo and Otsuka, Hajime},
+    title = {Modular $A_5$ symmetry and lepton mixing},
+    journal = {JHEP},
+    volume = {10},
+    pages = {220},
+    year = {2021},
+    eprint = {2108.07467},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1007/JHEP10(2021)220}
+}
+
+@article{Kobayashi:2018,
+    author = {Kobayashi, Tatsuo and Tanaka, Kei and Tatsuishi, Takuya H.},
+    title = {Neutrino mixing from finite modular groups},
+    journal = {JHEP},
+    volume = {08},
+    pages = {097},
+    year = {2018},
+    eprint = {1803.10391},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1007/JHEP08(2018)097}
+}
+
+@book{Weber:1908,
+    author = {Weber, Heinrich},
+    title = {Lehrbuch der Algebra},
+    volume = {III},
+    publisher = {Vieweg},
+    address = {Braunschweig},
+    year = {1908}
+}
+
+@book{Berndt:1998,
+    author = {Berndt, Bruce C.},
+    title = {Ramanujan's Notebooks, {Part} V},
+    publisher = {Springer},
+    address = {New York},
+    year = {1998}
+}
+
+@book{James:2001,
+    author = {James, Gordon and Liebeck, Martin},
+    title = {Representations and Characters of Groups},
+    edition = {2nd},
+    publisher = {Cambridge University Press},
+    year = {2001}
+}
+
+@article{PDG:2022,
+    collaboration = {Particle Data Group},
+    title = {Review of Particle Physics},
+    journal = {Phys. Rev. D},
+    volume = {106},
+    pages = {030001},
+    year = {2022},
+    doi = {10.1103/PhysRevD.106.030001}
+}
+
+@book{Coxeter:1973,
+    author = {Coxeter, H.S.M.},
+    title = {Regular Polytopes},
+    publisher = {Dover},
+    address = {New York},
+    year = {1973}
+}
+
+@article{Kobayashi:2018jvn,
+    author = {Kobayashi, Tatsuo and Shimizu, Yusuke and Takagi, Kenta and Tanimoto, Morimitsu and Tatsuishi, Takuya H.},
+    title = {Finite modular subgroups for fermion mass matrices and baryon/lepton number violation},
+    journal = {Phys. Lett. B},
+    volume = {782},
+    pages = {459--465},
+    year = {2018},
+    eprint = {1807.09167},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1016/j.physletb.2018.05.067}
+}
+
+@article{Criado:2019tzk,
+    author = {Criado, Juan Carlos and Feruglio, Ferruccio},
+    title = {Modular invariance faces precision neutrino data},
+    journal = {SciPost Phys.},
+    volume = {5},
+    number = {5},
+    pages = {042},
+    year = {2018},
+    eprint = {1807.01125},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.21468/SciPostPhys.5.5.042}
+}
+
+@article{Novichkov:2019sqv,
+    author = {Novichkov, P. P. and Penedo, J. T. and Petcov, S. T. and Titov, A. V.},
+    title = {Modular $S_4$ models of lepton masses and mixing},
+    journal = {JHEP},
+    volume = {04},
+    pages = {005},
+    year = {2019},
+    eprint = {1811.04933},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1007/JHEP04(2019)005}
+}
+
+@article{Okada:2019uoy,
+    author = {Okada, Hiroshi and Tanimoto, Morimitsu},
+    title = {Modular invariant flavor model of $A_4$ and hierarchical structures at nearby fixed points},
+    journal = {Phys. Rev. D},
+    volume = {100},
+    number = {11},
+    pages = {115037},
+    year = {2019},
+    eprint = {1909.04938},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1103/PhysRevD.100.115037}
+}
+
+@article{Ding:2019gof,
+    author = {Ding, Gui-Jun and King, Stephen F. and Liu, Xiang-Gan},
+    title = {Neutrino mass and mixing with $A_5$ modular symmetry},
+    journal = {Phys. Rev. D},
+    volume = {100},
+    number = {11},
+    pages = {115005},
+    year = {2019},
+    eprint = {1903.12588},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1103/PhysRevD.100.115005}
+}
+
+@article{deMedeirosVarzielas:2019cyj,
+    author = {de Medeiros Varzielas, Ivo and King, Stephen F.},
+    title = {Tri-direct CP in the vicinity of the symmetric limit},
+    journal = {JHEP},
+    volume = {11},
+    pages = {100},
+    year = {2019},
+    eprint = {1907.02511},
+    archivePrefix = {arXiv},
+    primaryClass = {hep-ph},
+    doi = {10.1007/JHEP11(2019)100}
+}
+
+@book{Lang:1999,
+    author = {Lang, Serge},
+    title = {Complex Analysis},
+    edition = {4th},
+    publisher = {Springer},
+    year = {1999}
+}
+
+@book{Diamond:2005,
+    author = {Diamond, Fred and Shurman, Jerry},
+    title = {A First Course in Modular Forms},
+    series = {Graduate Texts in Mathematics},
+    volume = {228},
+    publisher = {Springer},
+    year = {2005}
+}

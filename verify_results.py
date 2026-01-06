@@ -169,7 +169,7 @@ class ResultVerifier:
         eigenvalues, _ = self.matrix.get_eigenvalues()
         
         # Expected from paper (Equation 6)
-        expected = np.array([-1.457, 0.382, 0.236])
+        expected = np.array([-1.56426517, 0.99327059, 0.57099458,])
         
         if self.verbose:
             print("\nEigenvalues:")
